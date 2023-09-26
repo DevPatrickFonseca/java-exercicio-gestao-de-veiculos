@@ -14,6 +14,8 @@
 
 ## <strong>🎯Habilidades Utilizadas</strong><br />
 
+Neste exercício, pude aprimorar várias habilidades, incluindo:
+
 - Aplicar o conceito de Orientação a Objetos para desenvolver classes eficazes em Java.
 - Implementar getters e setters em suas classes de programação para acessar e alterar atributos de maneira controlada.
 - Usar o princípio de Encapsulamento para ocultar o estado interno de um objeto, preservando a integridade dos dados.
@@ -21,9 +23,6 @@
 - Demonstrar entendimento de Polimorfismo, permitindo que objetos de diferentes classes sejam tratados como objetos de uma classe comum.
 - Utilizar Interfaces para definir comportamentos que devem ser implementados por classes específicas.
 - Aplicar o conceito de Classes Abstratas, criando modelos para outras classes herdarem.
-
-Essas competências são essenciais e através deste exercício, esperamos que você possa aprofundar seu entendimento e habilidade em cada um desses tópicos.
-
 
 ## 📝Orientações para instalar e testar o projeto
 
