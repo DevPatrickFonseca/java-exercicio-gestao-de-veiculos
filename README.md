@@ -53,12 +53,12 @@ Neste exercício, pude aprimorar várias habilidades, incluindo:
 
 ### 2. **Calcular o consumo de combustível do Caminhão:**
   - Implementei a classe `Caminhao` que estende `VeiculoBase`
-  - Adicionei um atributo para o número de passageiros
+  - Adicionei um atributo para a capacidade de carga 
   - Implementei os métodos da interface, incluindo o cálculo do consumo de combustível
 
 ### 3. **Calcular o consumo de combustível da Moto:**
   - Implementei a classe `Moto` que estende `VeiculoBase`
-  - Adicionei um atributo para o número de passageiros
+  - Adicionei um atributo para o tipo de veículo 
   - Implementei os métodos da interface, incluindo o cálculo do consumo de combustível
 
 ### 4. **Foi criado a Classe GestaoDeVeiculosApplication:**
